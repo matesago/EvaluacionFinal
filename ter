@@ -1,0 +1,36 @@
+[33mcommit ab4e5dc4fe4192261bca5b8c7c911349ef4e92bf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Maria Teresa <mariat018@gmail.com>
+Date:   Thu May 3 11:42:28 2018 -0500
+
+    Se actualizo la pagina experiencia con audio y video
+
+[33mcommit 16f8fa0d88e92dc024b0f1c4a83d5ffaea482843[m
+Merge: 28e2f4b 9a7656f
+Author: Maria Teresa <mariat018@gmail.com>
+Date:   Mon Apr 30 11:08:30 2018 -0500
+
+    Merge branch 'master' of https://github.com/matesago/EvaluacionFinal
+
+[33mcommit 28e2f4b10999ba1bd41274a56d5ff91a1b2386d3[m
+Author: Maria Teresa <mariat018@gmail.com>
+Date:   Mon Apr 30 11:07:23 2018 -0500
+
+    Version 2.Creacion de la CarpPaginas y las Pag Educacion y Experiencia
+
+[33mcommit 9a7656fda559525bee2e0e7fbd6d1b5322270a41[m
+Author: matesago <38761532+matesago@users.noreply.github.com>
+Date:   Mon Apr 30 09:45:18 2018 -0500
+
+    Create README.md
+
+[33mcommit a7c78dc0cc53f2d6d5c36cba71383f7e04aeaf53[m
+Author: Maria Teresa <mariat018@gmail.com>
+Date:   Fri Apr 27 17:57:33 2018 -0500
+
+    Actualizacion de la pagina index.Html
+
+[33mcommit 4937de11ee2a8d6e7c6d437cc44dba1550e80176[m
+Author: MATESAGO <mariat018@gmail.com>
+Date:   Fri Apr 27 17:46:11 2018 -0500
+
+    Esta es mi primera Version No. 1
